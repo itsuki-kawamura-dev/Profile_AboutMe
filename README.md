@@ -23,21 +23,21 @@ My professional experience is primarily in **AWS and networking**, and I am curr
 
 Built and validated a private Azure environment focusing on secure network access, identity, and authorization.
 
-→ [View Project](PROJECT_5_URL)
+→ [View Project](https://github.com/itsuki-kawamura-dev/terraform-azure-private-vm)
 
 ### AWS Private Application Infrastructure
 **Terraform · AWS · ALB · EC2 · SSM · Ansible · Docker · GitHub Actions**
 
 Built a private application infrastructure combining IaC, configuration management, containers, and CI/CD.
 
-→ [View Project](PROJECT_4_URL)
+→ [View Project](https://github.com/itsuki-kawamura-dev/terraform-aws-ansible-docker-alb)
 
 ### AWS Terraform CI/CD with GitHub OIDC
 **Terraform · AWS · GitHub Actions · OIDC · Remote State**
 
 Implemented keyless Terraform deployment from GitHub Actions to AWS using OIDC federation.
 
-→ [View Project](PROJECT_3_URL)
+→ [View Project](https://github.com/itsuki-kawamura-dev/terraform-aws-github-actions-oidc-ci)
 
 ## Professional Background
 
@@ -53,4 +53,4 @@ Based in **Manchester, UK** and open to opportunities in:
 
 **Cloud Infrastructure · Infrastructure Engineering · Platform Engineering · DevOps · Network & Cloud**
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/itsuki-kawamura-5637b9429/)
