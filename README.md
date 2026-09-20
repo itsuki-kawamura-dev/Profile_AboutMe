@@ -24,3 +24,13 @@ Ansible / Docker / GitHub Actions
 
 Project 3 — AWS Terraform CI/CD
 Terraform / GitHub Actions / OIDC / Remote State
+
+Professional Background
+
+- Cloud infrastructure and support across AWS, Azure and GCP
+- AWS migration and hybrid connectivity
+- Cisco / FortiGate / Palo Alto networking
+- Infrastructure automation and cloud governance
+
+- Currently based in Manchester, UK
+Open to Cloud / Infrastructure / Platform / DevOps opportunities
